@@ -1,0 +1,11 @@
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\bin\Debug\EET(CLIENT).exe.config
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\bin\Debug\EET(CLIENT).exe
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\bin\Debug\EET(CLIENT).pdb
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\bin\Debug\EET(CLIENT).xml
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET(CLIENT).vbprojResolveAssemblyReference.cache
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET_CLIENT_.Form1.resources
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET_CLIENT_.Resources.resources
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET(CLIENT).vbproj.GenerateResource.Cache
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET(CLIENT).exe
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET(CLIENT).xml
+C:\Users\MIS-AIDE\Documents\Visual Studio 2015\Projects\EET(CLIENT)\EET(CLIENT)\obj\Debug\EET(CLIENT).pdb
